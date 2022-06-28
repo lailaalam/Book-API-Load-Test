@@ -3,12 +3,12 @@
 ## Generated the report of Load testing in Excel format with the actual and expected TPS
 ## The test result screenshots are added in the word file
 
-**The TPS and test breakdown report screenshot is added below:
+**The TPS and test breakdown report screenshot is added below:**
 
 ![image](https://user-images.githubusercontent.com/47983558/176115828-feb528f8-8218-41ee-b2ec-a0a4f6d55bf7.png)
 
 
-**Individual test breakdown screenshots are added below:
+**Individual test breakdown screenshots are added below:**
 
 For 60s and 167 users:
 
